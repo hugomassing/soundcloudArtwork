@@ -11,7 +11,7 @@ angular.module('soundcloudArtworkApp')
   .service('Soundcloud', function ($http) {
 
     var _soundCloud = {
-      baseUrl : 'http://api.soundcloud.com/',
+      baseUrl : 'http://api.soundcloud.com',
       clientId : '25a6312cd0379dbf2b4d8fce66d4f112'
     };
 
