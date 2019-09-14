@@ -2,7 +2,7 @@
 
 Small app to download a Soundcloud artwork without hassle. I was tired to always have to inspect element on the Soundcloud website to get the URL of the artwork. 
 
-Now you just have to paste the link to get the artwork. 
+**Now you just have to paste the link to get the artwork.** 
 
 Made with : 
 - [create-react-app](https://github.com/facebook/create-react-app)
